@@ -1,6 +1,6 @@
 # Horiseon Challenge
 
-## Online Business Managment that helps manage, advertise, 
+## Online Business Managment that helps manage your business online through advertisments and social media
 
 https://4nth0nyr.github.io/Horiseon/
 
