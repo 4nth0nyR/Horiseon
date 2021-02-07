@@ -4,4 +4,4 @@
 
 https://4nth0nyr.github.io/Horiseon/
 
-![arrow to money](assets\images\lead-generation.png)
+![arrow to money](assets\images\online-reputation-management.jpg)
